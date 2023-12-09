@@ -1,0 +1,12 @@
+ Destination Port              0
+ Flow Duration                 0
+ Total Fwd Packets             0
+ Total Backward Packets        0
+Total Length of Fwd Packets    0
+                              ..
+Idle Mean                      0
+ Idle Std                      0
+ Idle Max                      0
+ Idle Min                      0
+ Label                         0
+Length: 79, dtype: int64
